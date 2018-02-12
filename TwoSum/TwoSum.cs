@@ -20,7 +20,7 @@ namespace TwoSum
                     }
                 }
             }
-            return new int [404];
+            return new int[] { 404 ,404};
         }
     }
 }

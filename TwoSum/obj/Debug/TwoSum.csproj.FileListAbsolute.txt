@@ -5,3 +5,10 @@ C:\Users\YanJ\Downloads\TwoSum\TwoSum\bin\Debug\TwoSum.exe
 C:\Users\YanJ\Downloads\TwoSum\TwoSum\bin\Debug\TwoSum.pdb
 C:\Users\YanJ\Downloads\TwoSum\TwoSum\obj\Debug\TwoSum.exe
 C:\Users\YanJ\Downloads\TwoSum\TwoSum\obj\Debug\TwoSum.pdb
+D:\program\SourceTree\TwoSum\TwoSum\bin\Debug\TwoSum.exe.config
+D:\program\SourceTree\TwoSum\TwoSum\bin\Debug\TwoSum.exe
+D:\program\SourceTree\TwoSum\TwoSum\bin\Debug\TwoSum.pdb
+D:\program\SourceTree\TwoSum\TwoSum\obj\Debug\TwoSum.csprojResolveAssemblyReference.cache
+D:\program\SourceTree\TwoSum\TwoSum\obj\Debug\TwoSum.csproj.CoreCompileInputs.cache
+D:\program\SourceTree\TwoSum\TwoSum\obj\Debug\TwoSum.exe
+D:\program\SourceTree\TwoSum\TwoSum\obj\Debug\TwoSum.pdb
